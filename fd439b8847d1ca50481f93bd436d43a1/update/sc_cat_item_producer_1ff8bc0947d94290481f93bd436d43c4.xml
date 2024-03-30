@@ -6,7 +6,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Services">109f0438c6112276003ae8ac13e7009d</category>
+        <category/>
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
@@ -68,7 +68,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></save_script>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_catalogs/>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
@@ -87,14 +87,14 @@
         <sys_created_by>sabrinahen</sys_created_by>
         <sys_created_on>2024-03-30 14:29:48</sys_created_on>
         <sys_id>1ff8bc0947d94290481f93bd436d43c4</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Delivery Requests</sys_name>
         <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
         <sys_update_name>sc_cat_item_producer_1ff8bc0947d94290481f93bd436d43c4</sys_update_name>
         <sys_updated_by>sabrinahen</sys_updated_by>
-        <sys_updated_on>2024-03-30 14:59:46</sys_updated_on>
+        <sys_updated_on>2024-03-30 15:17:31</sys_updated_on>
         <table_name>x_1310604_sensat_0_delivery_requests</table_name>
         <taxonomy_topic/>
         <template/>
@@ -102,7 +102,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>1</version>
+        <version>2</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
