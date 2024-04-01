@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
+        <cat_item display_value="Sensational 7 Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -21,11 +21,11 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>sys_created_by</field>
+        <field>opened_by</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <hidden>true</hidden>
+        <hidden>false</hidden>
         <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
@@ -37,17 +37,17 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>sys_created_by</name>
-        <order>700</order>
+        <order>100</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Created By</question_text>
+        <question_text>Requested by</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1310604_sensat_0_delivery_requests</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -77,14 +77,14 @@
         <sys_created_by>sabrinahen</sys_created_by>
         <sys_created_on>2024-03-30 14:55:40</sys_created_on>
         <sys_id>05de3805471d4290481f93bd436d438b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Created By</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Requested by</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
         <sys_update_name>item_option_new_05de3805471d4290481f93bd436d438b</sys_update_name>
-        <sys_updated_by>sabrinahen</sys_updated_by>
-        <sys_updated_on>2024-03-30 14:59:46</sys_updated_on>
+        <sys_updated_by>Tbuoy1</sys_updated_by>
+        <sys_updated_on>2024-04-01 17:19:06</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

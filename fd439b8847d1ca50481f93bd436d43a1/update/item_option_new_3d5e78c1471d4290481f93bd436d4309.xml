@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
+        <cat_item display_value="Sensational 7 Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>city</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,11 +38,11 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>city</name>
-        <order>600</order>
+        <order>700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -77,17 +77,17 @@
         <sys_created_by>sabrinahen</sys_created_by>
         <sys_created_on>2024-03-30 14:54:13</sys_created_on>
         <sys_id>3d5e78c1471d4290481f93bd436d4309</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>City</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
         <sys_update_name>item_option_new_3d5e78c1471d4290481f93bd436d4309</sys_update_name>
-        <sys_updated_by>sabrinahen</sys_updated_by>
-        <sys_updated_on>2024-03-30 15:28:19</sys_updated_on>
+        <sys_updated_by>Tbuoy1</sys_updated_by>
+        <sys_updated_on>2024-04-01 17:19:06</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>18</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

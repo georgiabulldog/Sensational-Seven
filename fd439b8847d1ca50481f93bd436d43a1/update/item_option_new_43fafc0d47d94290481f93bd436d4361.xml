@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
+        <cat_item display_value="Sensational 7 Delivery Requests">1ff8bc0947d94290481f93bd436d43c4</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>estimated_weight_of_item_kg</name>
-        <order>300</order>
+        <order>400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -77,14 +77,14 @@
         <sys_created_by>sabrinahen</sys_created_by>
         <sys_created_on>2024-03-30 14:44:17</sys_created_on>
         <sys_id>43fafc0d47d94290481f93bd436d4361</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Estimated Weight of Item (kg)</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
         <sys_update_name>item_option_new_43fafc0d47d94290481f93bd436d4361</sys_update_name>
-        <sys_updated_by>sabrinahen</sys_updated_by>
-        <sys_updated_on>2024-03-30 14:59:45</sys_updated_on>
+        <sys_updated_by>Tbuoy1</sys_updated_by>
+        <sys_updated_on>2024-04-01 17:19:06</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
