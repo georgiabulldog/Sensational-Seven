@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Sensational General  - New Tab">3a13914247d94a90481f93bd436d43eb</canvas_page>
+        <name>Sensational General  - New Tab</name>
+        <page display_value="PA Sensational General  - New Tab">7a13914247d94a90481f93bd436d43ea</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>Tbuoy1</sys_created_by>
+        <sys_created_on>2024-04-02 18:57:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3613914247d94a90481f93bd436d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sensational General  - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>pa_tabs_3613914247d94a90481f93bd436d43ee</sys_update_name>
+        <sys_updated_by>Tbuoy1</sys_updated_by>
+        <sys_updated_on>2024-04-02 18:57:06</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b90ae3e1479d8690481f93bd436d430b" sys_domain="global" table="x_1310604_sensat_0_delivery_requests" version="3" view="workspace-sensational-seven-delivery-service-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b10ae3e1479d8690481f93bd436d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>1</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>bd0ae3e1479d8690481f93bd436d430e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b90ae3e1479d8690481f93bd436d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_delivery_date</element>
+            <position>3</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b90ae3e1479d8690481f93bd436d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>what_are_we_delivering</element>
+            <position>4</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b50ae3e1479d8690481f93bd436d430e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_weight_of_item_kg</element>
+            <position>5</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b10ae3e1479d8690481f93bd436d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pickup_address</element>
+            <position>6</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>8e0ae3e1479d8690481f93bd436d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_address</element>
+            <position>7</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>bd0ae3e1479d8690481f93bd436d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>8</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b90ae3e1479d8690481f93bd436d430e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b50ae3e1479d8690481f93bd436d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>10</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>820ae3e1479d8690481f93bd436d4310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status_of_delivery</element>
+            <position>11</position>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_id>b10ae3e1479d8690481f93bd436d430e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1310604_sensat_0_delivery_requests" sys_domain="global" view="140a23e1e09d869090d4000970577b58">b90ae3e1479d8690481f93bd436d430b</sys_ui_section>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-04-01 16:39:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b90ae3e1479d8690481f93bd436d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1310604_sensat_0_delivery_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+            <sys_update_name>sys_ui_section_b90ae3e1479d8690481f93bd436d430b</sys_update_name>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-04-01 16:39:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Sensational Seven Delivery Service 0" name="workspace-sensational-seven-delivery-service-0">140a23e1e09d869090d4000970577b58</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

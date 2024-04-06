@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sensational Seven">e34cd02047d94e50481f93bd436d4315</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Dashboard</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>104</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://dev104605.service-now.com/$pa_dashboard.do?sysparm_dashboard=f68ff44a47194a90481f93bd436d43e7</query>
+        <report/>
+        <roles>x_1310604_sensat_0.admin,x_1310604_sensat_0.manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>AJ</sys_created_by>
+        <sys_created_on>2024-04-02 22:45:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>22174ac647518a90481f93bd436d430e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Manager Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>sys_app_module_22174ac647518a90481f93bd436d430e</sys_update_name>
+        <sys_updated_by>AJ</sys_updated_by>
+        <sys_updated_on>2024-04-02 22:47:49</sys_updated_on>
+        <timeline_page/>
+        <title>Manager Dashboard</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_1310604_sensat_0_delivery_requests" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
+            <sys_id>a5806b844755ca50481f93bd436d4313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+            <sys_update_name>sys_choice_x_1310604_sensat_0_delivery_requests_city</sys_update_name>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Miami, Florida</label>
+            <language>en</language>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61806b844755ca50481f93bd436d4313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Miami, Florida</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Atlanta, Georgia</label>
+            <language>en</language>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d806b844755ca50481f93bd436d4317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Atlanta, Georgia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seattle, Washington</label>
+            <language>en</language>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9806b844755ca50481f93bd436d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Seattle, Washington</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

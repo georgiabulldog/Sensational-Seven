@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="city" label="City" language="en" table="x_1310604_sensat_0_delivery_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <help/>
+            <hint/>
+            <label>City</label>
+            <language>en</language>
+            <name>x_1310604_sensat_0_delivery_requests</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 00:06:23</sys_created_on>
+            <sys_id>a25027844755ca50481f93bd436d432a</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>City</sys_name>
+            <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+            <sys_update_name>sys_documentation_x_1310604_sensat_0_delivery_requests_city_en</sys_update_name>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

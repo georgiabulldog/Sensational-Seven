@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Smart Weighing Scale">5ada436547998690481f93bd436d43be</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>AJ</sys_created_by>
+        <sys_created_on>2024-04-02 11:28:52</sys_created_on>
+        <sys_id>748c6771479d0a90481f93bd436d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Smart Weighing Scale</sys_name>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_748c6771479d0a90481f93bd436d43db</sys_update_name>
+        <sys_updated_by>AJ</sys_updated_by>
+        <sys_updated_on>2024-04-02 11:28:52</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

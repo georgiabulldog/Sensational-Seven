@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_1310604_sensat_0_delivery_area" label="Delivery Area" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_1310604_sensat_0_delivery_area</element>
+            <help/>
+            <hint/>
+            <label>Delivery Area</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Delivery Areas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sabrinahen</sys_created_by>
+            <sys_created_on>2024-03-28 23:35:43</sys_created_on>
+            <sys_id>cfe22c6c47d94e50481f93bd436d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Delivery Area</sys_name>
+            <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_1310604_sensat_0_delivery_area_en</sys_update_name>
+            <sys_updated_by>sabrinahen</sys_updated_by>
+            <sys_updated_on>2024-03-28 23:35:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Sensational Seven Delivery Service App Config">940a23e14f9d869053a37cbbe1be9762</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">1c0a23e1b39d8690413788e48e888853</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>sabrinahen</sys_created_by>
+        <sys_created_on>2024-04-01 16:39:26</sys_created_on>
+        <sys_id>dc0a23e1c49d86909aa70a4d044e7553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>sys_ux_app_route_dc0a23e1c49d86909aa70a4d044e7553</sys_update_name>
+        <sys_updated_by>sabrinahen</sys_updated_by>
+        <sys_updated_on>2024-04-01 16:39:26</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc0a23e1c49d86909aa70a4d044e7553"/>
+</record_update>

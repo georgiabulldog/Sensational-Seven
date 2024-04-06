@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1310604_sensat_0_delivery_requests">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Sensational Seven Delivery Service - x_1310604_sen</name>
+        <roles/>
+        <source_table>x_1310604_sensat_0_delivery_requests</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>sabrinahen</sys_created_by>
+        <sys_created_on>2024-04-01 16:39:31</sys_created_on>
+        <sys_id>a90aa3e1479d8690481f93bd436d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sensational Seven Delivery Service - x_1310604_sen</sys_name>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>sys_search_source_a90aa3e1479d8690481f93bd436d4397</sys_update_name>
+        <sys_updated_by>sabrinahen</sys_updated_by>
+        <sys_updated_on>2024-04-01 16:39:31</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=a90aa3e1479d8690481f93bd436d4397"/>
+</record_update>
