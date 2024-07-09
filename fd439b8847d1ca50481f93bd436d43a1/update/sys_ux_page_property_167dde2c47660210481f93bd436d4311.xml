@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>featureRoutes</name>
+        <page display_value="Sensational Seven Delivery Service">100a23e13c9d86909bdc8a2ac5a03d62</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-30 11:49:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>167dde2c47660210481f93bd436d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>featureRoutes</sys_name>
+        <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
+        <sys_update_name>sys_ux_page_property_167dde2c47660210481f93bd436d4311</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-05-30 11:49:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1310604_sensat_0.100a23e13c9d86909bdc8a2ac5a03d62.root.featureRoutes</unique_name>
+        <value>{"list":{"_default":{"routeInfo":{"route":"list","fields":[],"params":[{"name":"listId","mapping":{"address":"listId"}},{"name":"configId","mapping":{"address":"configId"}},{"name":"tinyId","mapping":{"address":"tinyId"}}]}}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=167dde2c47660210481f93bd436d4311"/>
+</record_update>

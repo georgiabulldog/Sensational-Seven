@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="55d31fc847d1ca50481f93bd436d4397" extends="task" label="Delivery Requests" max_length="40" name="x_1310604_sensat_0_delivery_requests" type="collection">
+        <element choice="1" label="City" mandatory="true" max_length="40" name="city" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Miami, Florida" sequence="0" value="Miami, Florida"/>
+                <element inactive_on_update="false" label="Atlanta, Georgia" sequence="1" value="Atlanta, Georgia"/>
+                <element inactive_on_update="false" label="Seattle, Washington" sequence="2" value="Seattle, Washington"/>
+            </choice>
+        </element>
+        <element label="Delivery Address" mandatory="true" max_length="200" name="delivery_address" type="string"/>
+        <element label="Estimated Weight of Item (kg)" mandatory="true" max_length="40" name="estimated_weight_of_item_kg" type="integer"/>
+        <element label="Pickup Address" mandatory="true" max_length="200" name="pickup_address" type="string"/>
+        <element label="Requested Delivery Date" mandatory="true" max_length="40" name="requested_delivery_date" type="glide_date"/>
+        <element choice="1" label="Status of Delivery" max_length="40" name="status_of_delivery" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Delivered ok" sequence="0" value="Delivered ok"/>
+                <element inactive_on_update="false" label="Not delivered" sequence="1" value="Not delivered"/>
+            </choice>
+        </element>
+        <element label="What Are We Delivering?" mandatory="true" max_length="200" name="what_are_we_delivering" type="string"/>
+    </element>
+</database>

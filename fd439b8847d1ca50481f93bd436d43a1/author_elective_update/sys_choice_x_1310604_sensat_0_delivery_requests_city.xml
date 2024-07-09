@@ -1,80 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="city" table="sys_user" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_1310604_sensat_0_delivery_requests" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>city</element>
-            <name>sys_user</name>
+            <name>x_1310604_sensat_0_delivery_requests</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>sabrinahen</sys_created_by>
-            <sys_created_on>2024-03-28 00:09:40</sys_created_on>
-            <sys_id>f2116fc44755ca50481f93bd436d43f2</sys_id>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>city</sys_name>
             <sys_package display_value="Sensational Seven" source="x_1310604_sensat_0">fd439b8847d1ca50481f93bd436d43a1</sys_package>
             <sys_policy/>
             <sys_scope display_value="Sensational Seven">fd439b8847d1ca50481f93bd436d43a1</sys_scope>
-            <sys_update_name>sys_choice_sys_user_city</sys_update_name>
+            <sys_update_name>sys_choice_x_1310604_sensat_0_delivery_requests_city</sys_update_name>
             <sys_updated_by>sabrinahen</sys_updated_by>
-            <sys_updated_on>2024-03-28 00:09:40</sys_updated_on>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>city</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Miami</label>
+            <inactive>false</inactive>
+            <label>Miami, Florida</label>
             <language>en</language>
-            <name>sys_user</name>
+            <name>x_1310604_sensat_0_delivery_requests</name>
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>sabrinahen</sys_created_by>
-            <sys_created_on>2024-03-28 00:09:40</sys_created_on>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>be116fc44755ca50481f93bd436d43f1</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sabrinahen</sys_updated_by>
-            <sys_updated_on>2024-03-28 00:10:43</sys_updated_on>
-            <value>Miami</value>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Miami, Florida</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>city</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Atlanta</label>
+            <inactive>false</inactive>
+            <label>Atlanta, Georgia</label>
             <language>en</language>
-            <name>sys_user</name>
+            <name>x_1310604_sensat_0_delivery_requests</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>sabrinahen</sys_created_by>
-            <sys_created_on>2024-03-28 00:09:40</sys_created_on>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3e11afc44755ca50481f93bd436d4303</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sabrinahen</sys_updated_by>
-            <sys_updated_on>2024-03-28 00:10:43</sys_updated_on>
-            <value>Atlanta</value>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Atlanta, Georgia</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>city</element>
             <hint/>
-            <inactive>true</inactive>
-            <label>Seattle</label>
+            <inactive>false</inactive>
+            <label>Seattle, Washington</label>
             <language>en</language>
-            <name>sys_user</name>
+            <name>x_1310604_sensat_0_delivery_requests</name>
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>sabrinahen</sys_created_by>
-            <sys_created_on>2024-03-28 00:09:40</sys_created_on>
+            <sys_created_on>2024-03-28 00:07:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>be11afc44755ca50481f93bd436d4314</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>sabrinahen</sys_updated_by>
-            <sys_updated_on>2024-03-28 00:10:43</sys_updated_on>
-            <value>Seattle</value>
+            <sys_updated_on>2024-03-28 00:07:07</sys_updated_on>
+            <value>Seattle, Washington</value>
         </sys_choice>
     </sys_choice>
 </record_update>
